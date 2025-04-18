@@ -11,7 +11,7 @@ Base for web applications. This is wrapper arround `meow\di` and `meow\router`. 
 To instal this one use following command
 
 ```bash
-composer require meow/di
+composer require meow/core
 ```
 
 ## Creating new application
